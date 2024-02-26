@@ -42,10 +42,10 @@
   <a href="https://www.twitch.tv/arshiahr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://discord.com/users/165547519563005953" target="_blank">
+  <a href="https://discord.com/users/212982532084465665" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:realbamaram@gmail.com" target="_blank">
+  <a href="mailto:razzagharshia8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
