@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Senior Frontend Engineer • SEO Specialist • Digital Growth Strategist
+Senior Full Stack Developer • SEO Specialist • Digital Growth Strategist
 </h3>
 
 <p align="center">
