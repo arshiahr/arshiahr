@@ -3,67 +3,80 @@
 </h1>
 
 <h3 align="center">
-Senior Full Stack Developer • SEO Specialist • Digital Growth Strategist
+Senior Full-Stack Engineer • SEO Specialist • Digital Growth Strategist
 </h3>
 
 <p align="center">
-I build scalable, high-performance and business-driven web applications.
+Building scalable systems, high-performance applications & growth-driven digital products.
+</p>
+
+<p align="center">
+  <a href="https://github.com/arshiahr">
+    <img src="https://komarev.com/ghpvc/?username=arshiahr&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Professional Summary
+## 🧠 Professional Profile
 
-Experienced Frontend Developer with a strong background in building modern, scalable and SEO-optimized web applications.  
+Full-Stack Developer with hands-on experience in designing, developing and deploying production-level applications.
 
-Over the years, I've worked on multiple real-world projects across different industries, focusing not only on clean code — but also on business growth, performance optimization and digital impact.
+I specialize in building scalable frontend architectures with React & Next.js, while also engineering robust backend systems using Node.js and modern databases.
 
-I combine:
+Beyond development, I integrate Technical SEO, performance optimization and digital growth strategy directly into product architecture.
 
-- ⚡ Advanced Frontend Engineering  
-- 📈 Technical SEO & Digital Marketing  
-- 🧩 Strategic Project Management  
-- 🚀 Performance-Driven Development  
-
-My goal is simple:  
-**Build products that are technically solid and commercially successful.**
+💡 I don’t just write code — I build systems that scale technically and commercially.
 
 ---
 
-## 🛠 Technical Expertise
+## 🚀 Core Expertise
 
-### 🚀 Frontend Development
+- Full-Stack Web Development (Frontend + Backend)
+- Scalable Application Architecture
+- SEO-First Engineering
+- API Design & Integration
+- Performance Optimization (Core Web Vitals)
+- Growth-Driven Product Development
+- Agile Project & Team Management
+
+---
+
+# 🛠 Technical Stack
+
+## 🎨 Frontend Engineering
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,threejs,html,css,tailwind" />
 </p>
 
-- React.js (Advanced Patterns & Performance Optimization)
-- Next.js (SSR, SSG, ISR, SEO-first architecture)
-- TypeScript (Scalable type-safe architecture)
-- Tailwind CSS (Modern UI systems)
-- Three.js (Interactive 3D experiences)
+- Advanced React Patterns
+- Next.js (SSR, SSG, ISR, API Routes)
+- TypeScript (Scalable & Maintainable Codebases)
+- Tailwind CSS
+- Three.js
 - Vue.js
-- Advanced JavaScript (ES6+)
+- Modern JavaScript (ES6+)
 
 ---
 
-### ⚙️ Backend & Databases
+## ⚙️ Backend Engineering
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 </p>
 
-- Node.js
+- Node.js (REST APIs & Server Logic)
+- API Architecture & Integration
+- Authentication & Authorization Systems
 - MongoDB
 - MySQL
 - MariaDB
-- REST API Integration
-- Authentication Systems
+- Database Design & Query Optimization
 
 ---
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
@@ -77,7 +90,7 @@ My goal is simple:
 
 ---
 
-### 🎨 Design & Creative Tools
+## 🎨 Design & Creative Tools
 
 - Adobe XD  
 - Adobe Illustrator  
@@ -87,36 +100,37 @@ My goal is simple:
 
 ---
 
-### 📊 SEO & Digital Marketing
+## 📊 SEO & Digital Growth
 
-- Technical SEO Optimization
-- Core Web Vitals & Performance Tuning
-- On-Page & Off-Page SEO
-- Keyword Strategy & Content Structure
-- Conversion Rate Optimization (CRO)
-- Analytics & Growth Tracking
-- Search Console & Data Analysis
+- Technical SEO Implementation
+- Core Web Vitals Optimization
+- On-Page & Technical Optimization
+- Performance Tuning
+- Analytics & Growth Strategy
+- Conversion Optimization
 
 ---
 
-### 🧩 Project & Product Management
+## 🧩 Project & Product Management
 
 - Agile / Scrum Workflow
-- Task & Team Management
 - Product Planning
-- Business Requirement Analysis
-- Client Communication & Delivery
-- Growth-Oriented Development Strategy
+- Requirement Analysis
+- Team Coordination
+- Client Communication
+- Growth-Oriented Roadmapping
 
 ---
 
-## 🏗 Professional Mindset
+## 🏗 Engineering Philosophy
 
 ```ts
 const arshia = {
-  role: "Senior Frontend Engineer",
-  approach: "Clean Architecture + SEO + Performance",
-  focus: "Scalable Systems & Business Growth",
-  experience: "Multiple Production-Level Projects",
-  philosophy: "Code is not just code — it's a business tool."
+  github: "github.com/arshiahr",
+  role: "Senior Full-Stack Engineer",
+  frontend: ["React", "Next.js", "TypeScript"],
+  backend: ["Node.js", "MongoDB", "MySQL"],
+  specialty: "Performance + SEO + Scalability",
+  mindset: "Clean Architecture & Business Impact",
+  mission: "Build products that grow."
 };
