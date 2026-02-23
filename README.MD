@@ -122,21 +122,6 @@ Beyond development, I integrate Technical SEO, performance optimization and digi
 
 ---
 
-## 🏗 Engineering Philosophy
-
-```ts
-const arshia = {
-  github: "github.com/arshiahr",
-  role: "Senior Full-Stack Engineer",
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "MongoDB", "MySQL"],
-  specialty: "Performance + SEO + Scalability",
-  mindset: "Clean Architecture & Business Impact",
-  mission: "Build products that grow."
-};
-
----
-
 # 📬 Contact Me
 
 <p align="center">
@@ -158,3 +143,17 @@ const arshia = {
 <p align="center">
 💬 Open for collaboration • 🚀 Open for ambitious projects • 🌍 Available worldwide
 </p>
+
+## 🏗 Engineering Philosophy
+
+```ts
+const arshia = {
+  github: "github.com/arshiahr",
+  role: "Senior Full-Stack Engineer",
+  frontend: ["React", "Next.js", "TypeScript"],
+  backend: ["Node.js", "MongoDB", "MySQL"],
+  specialty: "Performance + SEO + Scalability",
+  mindset: "Clean Architecture & Business Impact",
+  mission: "Build products that grow."
+};
+
