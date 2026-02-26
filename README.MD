@@ -18,6 +18,26 @@ Building scalable systems, high-performance applications & growth-driven digital
 
 ---
 
+# 🌐 Personal Website
+
+<p align="center">
+  <a href="https://arshiahr.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-ARSHIAHR.IR-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🚀 Production-Ready Projects • ⚡ High Performance • 📈 SEO Optimized
+</p>
+
+<p align="center">
+  <a href="https://arshiahr.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Explore_Now-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Professional Profile
 
 Full-Stack Developer with hands-on experience in designing, developing and deploying production-level applications.
@@ -144,6 +164,8 @@ Beyond development, I integrate Technical SEO, performance optimization and digi
 💬 Open for collaboration • 🚀 Open for ambitious projects • 🌍 Available worldwide
 </p>
 
+---
+
 ## 🏗 Engineering Philosophy
 
 ```ts
@@ -156,4 +178,3 @@ const arshia = {
   mindset: "Clean Architecture & Business Impact",
   mission: "Build products that grow."
 };
-
